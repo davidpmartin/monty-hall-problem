@@ -6,6 +6,7 @@ In this brain teaser, a contestant on a game show is presented with 3 doors, one
 
 Most people are inclined to think that each door has equal probability throughout the entirety of the thought experiment, therefore the strategy of switching doors should not provide a higher chance of finding the car. This however is not correct, as it fails to account for the change in probability value for each door that occurs when host reveals the goat.
 
+
 If we present each door as A B C, and assume each have equal probably of hiding the car, we can say that at the beginning of the experiment the probably for each car is 1/3. Suppose that door A is selected, that leaves the follow possibilites:
 
   P1: {A} = 1/3
