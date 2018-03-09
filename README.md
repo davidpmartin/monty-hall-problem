@@ -8,8 +8,8 @@ Most people are inclined to think that each door has equal probability throughou
 
 If we present each door as A B C, and assume each have equal probably of hiding the car, we can say that at the beginning of the experiment the probably for each car is 1/3. Suppose that door A is selected, that leaves the follow possibilites:
 
-P1: {A} = 1/3
-P2: {B or C} = 2/3 (with B = 1/3, C = 1/3)
+  P1: {A} = 1/3
+  P2: {B or C} = 2/3 (with B = 1/3, C = 1/3)
 
 When a goat door is revealed, lets say its B, the probably of that door hiding the car drops to 0, however the probability for the set {B or C} still remains 2/3, meaning door C itself has odds of 2/3. As noted above, this means that changing to the other door will always have a greater chance of revealing the car.
 
